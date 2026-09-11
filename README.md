@@ -1,4 +1,10 @@
-crawl4AI et api claude
+# Findr
+
+Findr est un agent que j'ai vibecodé avec Claude Code, dont le but est de trouver des trends ou des memes sur X avant qu'ils ne deviennent viraux. L'agent peut utiliser la barre de recherche de X, cliquer sur des posts et logger les tweets qu'il trouve pertinents. Pour faire cela, une session X doit d'abord être extraite grâce au script ```export_session_cdp.py```. L'agent a également la capacité d'apprendre de ses précédentes recherches, car il peut logger les patterns de recherche qui ont fonctionné ou échoué. En ce qui concerne la stack, Crawl4AI est utilisé pour scraper X et le modèle utilisé est Claude Haiku 4.5.
+
+Bien que Findr n'arrive pas à remplir la tâche que je lui ai confiée, ce projet m'a permis d'expérimenter avec un agent pour la première fois. L'ambiguïté du vibecoding a sûrement joué un rôle dans le résultat. Cependant, je souhaite implémenter moi-même un agent similaire plus efficace dans le futur.
+
+![exemple d'exécution](example.png)
 
 # narrative_scanner
 
