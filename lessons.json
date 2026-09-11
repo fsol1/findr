@@ -1,0 +1,17 @@
+[
+  {
+    "pattern": "Abstract meme/trend searches in crypto communities as primary strategy",
+    "why_wrong": "By September 2026, tokenization velocity is so high that search-result memes are already late \u2014 they either have tokens or will imminently. Better strategy: hunt in non-crypto-native communities (mainstream trending, animal/news moments, specific communities) and look for moments with name/hook potential BEFORE they reach crypto Twitter.",
+    "logged_at": "2026-09-03T13:17:43.218529+00:00"
+  },
+  {
+    "pattern": "Relying on broad X searches for \"viral\" or \"trending\" in real-time to catch pre-tokenized moments",
+    "why_wrong": "By the time something is indexed and surfaced by X search (even live search), it's either already tokenized, already 12+ hours old, or it's noise from old posts. Better approach: identify specific name/hook the moment you spot it organically, then search THAT specific term to see if it's crossed into crypto Twitter yet. Or search very specific, just-launched things (like repo names, product names) before they get picked up widely.",
+    "logged_at": "2026-09-03T13:20:38.032008+00:00"
+  },
+  {
+    "pattern": "Using abstract \"viral,\" \"trending,\" or activity-based searches (e.g., \"what is everyone talking about\") as primary strategy for finding pre-tokenized moments",
+    "why_wrong": "By the time something is indexed and surfaced by X live search, it's either already too late (either tokenized, resolved by a news event, or past its emergence window), or it's noise from stale posts. Pre-tokenized moments have their name/hook established in replies and niche communities BEFORE they reach the trending tab. Better to search specific named things once you spot the hook organically, or monitor specific low-latency spaces (niche communities, early reply chains) rather than cast generic trend nets.",
+    "logged_at": "2026-09-03T13:31:33.195934+00:00"
+  }
+]
